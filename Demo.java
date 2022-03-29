@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class hello from dev1 dev2
 {
 	public static void main(String[] args) from dev1 dev2
