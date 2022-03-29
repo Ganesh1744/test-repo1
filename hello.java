@@ -1,4 +1,7 @@
-class hello
+class hello from dev1
 {
-    public static void main(String[] args)
+    public static void main(String[] args) from dev1
+    {
+      System.out.println("hello modf from dev1");
+    }
 }
